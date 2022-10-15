@@ -1,31 +1,40 @@
 // notes/vue/sidebar.js
 module.exports = [
   {
-    title: 'Vue-cli安装',
-    path: '/notes/Vue/Vue-cli安装',
+    title: "Vue核心基础",
+    path: "/notes/vue/vue核心基础",
   },
   {
-    title: 'vue的使用',
-    path: '/notes/Vue/vue的使用',
+    title: "Vue组件化编程",
+    path: "/notes/vue/vue组件化编程",
   },
   {
-    title: 'Vue钩子',
-    path: '/notes/Vue/Vue钩子',
+    title: "Vue组件进阶",
+    path: "/notes/vue/vue组件进阶",
   },
   {
-    title: 'Vue-router',
-    path: '/notes/Vue/Vue-router',
+    title: "Vue脚手架",
+    path: "/notes/vue/vue-cli",
   },
   {
-    title: 'Vue相关知识',
-    path: '/notes/Vue/Vue相关知识',
+    title: "Vue网络请求",
+    path: "/notes/vue/vue网络请求",
+  },
+  {
+    title: "Vuex",
+    path: "/notes/vue/vuex",
+  },
+  {
+    title: "Vue Router",
+    path: "/notes/vue/vue-router",
+  },
+  {
+    title: "Vue3",
+    path: "/notes/vue/vue3",
   },
   {
     title: 'Vue2中$set相关',
-    path: '/notes/Vue/Vue2中$set相关',
+    path: '/notes/vue/Vue2中$set相关',
   },
-  {
-    title: 'Vue组件相关知识',
-    path: '/notes/Vue/Vue组件相关知识',
-  },
+
 ]

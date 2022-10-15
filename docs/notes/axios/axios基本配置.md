@@ -1,6 +1,6 @@
 # axios基本配置
 
-### 一、全局的 axios 默认值
+## 一、全局的 axios 默认值
 
 - `axios.defaults.baseURL` 设置默认公共请求地址baseURL
 
@@ -20,7 +20,7 @@
 </script>
 ```
 
-### 二、设置超时时间
+## 二、设置超时时间
 
 - `axios.defaults.timeout = 2500`; 设置超时
 
@@ -34,7 +34,7 @@ axios.defaults.timeout = 3000;
 </script>
 ```
 
-### 三、设置请求头
+## 三、设置请求头
 
 token是登陆的时候返回的token 如果后端让在别的页面请求数据的是附带token
 
@@ -55,7 +55,7 @@ axios.defaults.headers.common['sessionKey'] = 登陆时后端返回的sessionKey
 
 如果你每次请求接口需要验证，就加这个，不需要验证那就不用加
 
-### 四、axios拦截器 interceptors
+## 四、axios拦截器 interceptors
 
 页面发送http请求，很多情况我们要对请求和其响应进行特定的处理；如果请求数非常多，单独对每一个请求进行处理会变得非常麻烦，程序的优雅性也会大打折扣。好在强大的axios为开发者提供了这样一个API：拦截器。拦截器分为 请求（request）拦截器和 响应（response）拦截器。
 
@@ -71,9 +71,9 @@ axios.defaults.headers.common['sessionKey'] = 登陆时后端返回的sessionKey
 
 axios拦截器就是对这请求前和返回数据后的这两个过程执行操作
 
-### axios拦截器 开始 类似路由守卫
+## 五、两种拦截器
 
-**+ 请求拦截器**
+### **+ 请求拦截器**
 
 - config里面包含请求的参数 如请求地址 请求类似 请求参数等
   在请求的时候执行一些操作 比如开启loading弹窗 可以想象成router的导航守卫
@@ -91,7 +91,7 @@ axios.interceptors.request.use(function (config) {
 </script>
 ```
 
-**+ 响应拦截器**
+### **+ 响应拦截器**
 
 比如响应数据之后进行的操作
 

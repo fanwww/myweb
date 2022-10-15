@@ -2,6 +2,6 @@
 module.exports = [
   {
     title: 'AJAX',
-    path: '/notes/AJAX/AJAX',
+    path: '/notes/ajax/AJAX',
   },
 ]

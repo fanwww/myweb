@@ -2,6 +2,6 @@
 module.exports = [
   {
     title: 'Class',
-    path: '/notes/ES6/Class',
+    path: '/notes/es6/Class',
   },
 ]

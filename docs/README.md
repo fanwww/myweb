@@ -4,7 +4,7 @@ heroImage: /img/logo.jpg
 heroText: SuperFan
 tagline: 一名前端er的学习笔记
 actionText: Get Started →
-actionLink: /notes/
+actionLink: /vuepress/vuepress
 features:
   - title: 前端知识
     details: HTML、CSS、JavaScript、Vue、React...

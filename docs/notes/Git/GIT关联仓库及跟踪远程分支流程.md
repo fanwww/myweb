@@ -2,9 +2,9 @@
 
 
 
-### 在远程仓库创建一个名字为abc的分支,并提交一个文件
+## 在远程仓库创建一个名字为abc的分支,并提交一个文件
 
-###### 本地创建一个文件夹
+本地创建一个文件夹
 
 git init 初始化本地仓库
 
@@ -30,7 +30,7 @@ git clone url  拉取远程仓库代码 (这时候本地仓库已经跟踪了远
 
 git checkout -b dev 在本地仓库创建一个名为dev的分支并进入该本地分支
 
-git --set-upstream orgin dev  在远程仓库创建一个名为dev的分支并关联该分支
+git --set-upstream origin dev  在远程仓库创建一个名为dev的分支并关联该分支
 
 解决bug
 

@@ -2,9 +2,13 @@
 
 ## 一、什么时候需要用qs进行序列化：
 
-#### axios默认的content-type是application/json,即json格式，后台可以使用字符串进行接收，然后再解析即可：
+::: tip
 
-###### 默认（不使用qs）：
+axios默认的content-type是application/json,即json格式，后台可以使用字符串进行接收，然后再解析即可
+
+:::
+
+#### 默认（不使用qs）：
 
 ```javascript
 发送请求：
@@ -30,9 +34,13 @@ public AjaxResult getOutList(@RequestBody String params) {
 }
 ```
 
-### 使用qs.stringify解析后，content-type是application/x-www-form-urlencoded,即form表单格式，后台可以使用实体进行接收：
+::: tip
 
-##### 使用qs：将数据序列化成url格式
+使用qs.stringify解析后，content-type是application/x-www-form-urlencoded,即form表单格式，后台可以使用实体进行接收：
+
+:::
+
+#### 使用qs：将数据序列化成url格式
 
 ```javascript
 发送请求：
@@ -53,11 +61,11 @@ public AjaxResult editOut(TOut tOut) {
 name:xxx&age:xxx
 ```
 
-##### 所以,实际上是否需要用qs去序列化参数完全取决于后端要怎么接受数据。
+#### 所以,实际上是否需要用qs去序列化参数完全取决于后端要怎么接受数据。
 
 ## 二、qs.parse方法：
 
-###### qs.parse()将URL解析成对象的形式；
+#### qs.parse()将URL解析成对象的形式
 
 ```javascript
 let url = 'name:xxx&age:xxx'
