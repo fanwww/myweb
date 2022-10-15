@@ -10,12 +10,13 @@ module.exports = {
   '/notes/vue': require('../notes/vue/sidebar'),
   '/notes/微信小程序': require('../notes/微信小程序/sidebar'),
   // 后端
-  '/notes/nodejs': require('../notes/nodejs/sidebar'),
+  '/backend/nodejs': require('../backend/nodejs/sidebar'),
   // 其他
-  '/notes/git': require('../notes/git/sidebar'),
-  '/notes/webpack': require('../notes/webpack/sidebar'),
+  '/other/git': require('../other/git/sidebar'),
+  '/other/webpack': require('../other/webpack/sidebar'),
+  '/other/python': require('../other/python/sidebar'),
   // 资源网站
   '/resources/website': require('../resources/website/sidebar'),
   // 首页按钮
-  '/notes/vuepress': require('../vuepress/sidebar'),
+  '/vuepress/vuepress': require('../vuepress/sidebar'),
 }

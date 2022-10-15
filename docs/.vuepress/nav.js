@@ -39,14 +39,15 @@ module.exports = [
   {
     text: '后端',
     items: [
-      { text: 'Nodejs', link: '/notes/nodejs/node' },
+      { text: 'Nodejs', link: '/backend/nodejs/node' },
     ]
   },
   {
     text:'其他',
     items:[
-      { text: 'Git', link: '/notes/git/Git' },
-      { text: 'webpack', link: '/notes/webpack/webpack基础' },
+      { text: 'Git', link: '/other/git/Git' },
+      { text: 'webpack', link: '/other/webpack/webpack基础' },
+      { text: 'Python', link: '/other/python/crawler' }
     ]
   }
 ]
