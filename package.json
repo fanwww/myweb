@@ -15,5 +15,8 @@
   "devDependencies": {
     "vuepress": "^1.9.7",
     "vuepress-plugin-go-top": "^1.0.4"
+  },
+  "dependencies": {
+    "vuepress-plugin-helper-live2d": "^1.0.2"
   }
 }
