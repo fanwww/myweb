@@ -1,6 +1,8 @@
 module.exports = {
   // 插件：置顶按钮、图片缩放
-  plugins: ['@vuepress/back-to-top', '@vuepress/medium-zoom'],
+  plugins: [
+    ['go-top'],
+  ],
   // 自定义网站 favicon
   head: [['link', { rel: 'icon', href: '/img/logo.jpg' }]],
   // 根路径，和仓库名一致
