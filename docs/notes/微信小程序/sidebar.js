@@ -2,7 +2,7 @@
 module.exports = [
   {
     title: '小程序的生命周期',
-    path: '/notes/微信小程序/小程序的生命周期',
+    path: '/notes/微信小程序/life_cycle',
   },
   {
     title: '页面路由',

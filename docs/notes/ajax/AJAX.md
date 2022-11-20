@@ -1,6 +1,6 @@
-## 1.新规范
+# 1.新规范
 
-### 1. 超时设定
+## 1. 超时设定
 
 当我们发送一个AJAX请求，却迟迟得不到服务器响应，这种感觉是很糟糕的。为了缓解这种糟糕的感觉，XMLHttpRequest 2级规范为我们提供了一个额外的属性和事件监听事件：
 
@@ -17,7 +17,7 @@ xhr.ontimeout = function() { alert("Request did not return in a second.") }
 
 注意：当请求终止时，会调用 `ontimeout` 事件处理程序，此时 *xhr* 的 `readyState` 属性的值可能已变为4，这意味着会继续调用 `onreadystatechange` 事件处理程序。
 
-### 2. 进度事件
+## 2. 进度事件
 
 *Progress Events* 规范是W3C制定的一个工作草案。该规范定义了与客户端与服务器通信相关的一系列事件，这些事件监听了通信进程中的各个关键节点，使我们能够以更细的颗粒度掌控数据传输过程中的细节。目前共有6个进度事件，他们会随数据传输进展被顺序触发（除了error，abort事件），让我们看看他们的定义和浏览器兼容情况：
 
@@ -33,7 +33,7 @@ xhr.ontimeout = function() { alert("Request did not return in a second.") }
   - 该事件帮助我们节省了`readystatechange`事件，我们不必在XHR对象实例上绑定该事件监听函数以追踪实例上`readyState`属性的变化
 - `loadend`：在通信完成或者触发`error`，`abort`，或`load`事件后触发；
 
-## 2.jQuery中的AJAX
+# 2.jQuery中的AJAX
 
 **注意：所有的选项都可以通过 $.ajaxSetup() 函数来全局设置**
 

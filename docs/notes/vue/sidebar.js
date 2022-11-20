@@ -2,7 +2,7 @@
 module.exports = [
   {
     title: "Vue核心基础",
-    path: "/notes/vue/vue核心基础",
+    path: "/notes/vue/vue",
   },
   {
     title: "Vue组件化编程",

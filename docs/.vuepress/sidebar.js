@@ -4,6 +4,7 @@ module.exports = {
   '/notes/html&css': require('../notes/html&css/sidebar'),
   '/notes/js': require('../notes/js/sidebar'),
   '/notes/sass': require('../notes/sass/sidebar'),
+  '/notes/ts': require('../notes/ts/sidebar'),
   '/notes/es6': require('../notes/es6/sidebar'),
   '/notes/ajax': require('../notes/ajax/sidebar'),
   '/notes/axios': require('../notes/axios/sidebar'),
@@ -11,8 +12,10 @@ module.exports = {
   '/notes/微信小程序': require('../notes/微信小程序/sidebar'),
   // 后端
   '/backend/nodejs': require('../backend/nodejs/sidebar'),
+  '/backend/mysql': require('../backend/mysql/sidebar'),
   // 其他
   '/other/git': require('../other/git/sidebar'),
+  '/other/reg': require('../other/reg/sidebar'),
   '/other/webpack': require('../other/webpack/sidebar'),
   '/other/python': require('../other/python/sidebar'),
   // 资源网站

@@ -27,6 +27,7 @@
 ## 官方网站
 
 - [印记中文-前端中文文档集合](https://docschina.org/)
+- [渐变色](https://uigradients.com/#Purplin/)
 - [Vue.js](https://cn.vuejs.org/)
 - [Vue Router](https://router.vuejs.org/zh/)
 - [Element UI](https://element.eleme.cn/#/zh-CN)
@@ -45,6 +46,8 @@
 - [Lodash 中文文档](https://www.lodashjs.com/)
 - [Swiper 中文网](https://www.swiper.com.cn/)
 - [Echarts](https://echarts.apache.org/zh/index.html)
+- [pixijs(canvas库)](http://pixijs.huashengweilai.com/)
+- [konvajs(canvas库)](http://konvajs-doc.bluehymn.com/)
 - [Sass](https://www.sass.hk/)
 - [Bootstrap 中文网](https://www.bootcss.com/)
 - [Animate.css](https://animate.style/)
@@ -57,6 +60,7 @@
 
 ## 工具网站
 
+- [在线ps](https://www.photopea.com/)
 - [docsify](https://docsify.js.org/##/)
 - [看云](https://www.kancloud.cn/)
 - [BootCDN - Bootstrap 中文网开源项目免费 CDN 加速服务](https://www.bootcdn.cn/)

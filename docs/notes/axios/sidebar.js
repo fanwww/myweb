@@ -2,7 +2,7 @@
 module.exports = [
   {
     title: 'axios基本配置',
-    path: '/notes/axios/axios基本配置',
+    path: '/notes/axios/axios',
   },
   {
     title: 'axios中的qs用法',

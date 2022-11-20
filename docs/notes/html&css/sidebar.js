@@ -2,7 +2,7 @@
 module.exports = [
   {
     title: '表单属性',
-    path: '/notes/html&css/表单属性',
+    path: '/notes/html&css/form',
   },
   {
     title: 'CSS选择器',
