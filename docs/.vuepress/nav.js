@@ -7,35 +7,53 @@ module.exports = [
     text: '前端',
     items: [
       {
-        text:'基础',
+        text:'小试牛刀',
         items:[
           { text: 'HTML&CSS', link: '/notes/html&css/form' },
           { text: 'JavaScript', link: '/notes/js/what_is_js' },
         ]
       },
       {
-        text:'进阶',
+        text:'渐入佳境',
         items:[
+          { text: 'ES6', link: '/notes/es6/es6' },
           { text: 'Sass', link: '/notes/sass/about' },
           { text: 'TypeScript', link: '/notes/ts/ts_install' },
-          { text: 'ES6', link: '/notes/es6/es6' },
-          { text: 'AJAX', link: '/notes/ajax/AJAX' },
-        ]
-      },
-      {
-        text:'框架',
-        items:[
           { text: 'axios', link: '/notes/axios/axios' },
-          { text: 'Vue', link: '/notes/vue/vue' },
         ]
       },
       {
-        text:'移动端',
+        text:'登堂入室',
         items:[
-          { text: '微信小程序', link: '/notes/微信小程序/life_cycle' },
+          { text: 'Vue', link: '/notes/vue/vue' },
+          { text: 'React', link: '/notes/react/react_base' },
+        ]
+      },
+      {
+        text:'锦上添花',
+        items:[
+          { text: '微信小程序', link: '/notes/wx_mini_p/life_cycle' },
         ]
       }
     ],
+  },
+  {
+    text: '前端进阶',
+    items: [
+      {
+        text:'音视频方向',
+        items:[
+          { text: 'WebRTC', link: '/fontendAdvance/WebRTC/web_rtc_1' },
+        ]
+      },
+      {
+        text:'前端工程化',
+        items:[
+          { text: '打包基础', link: '/fontendAdvance/pack_base/rollup&webpack' },
+          { text: 'webpack', link: '/fontendAdvance/webpack/webpack' },
+        ]
+      }
+    ]
   },
   {
     text: '后端',
@@ -49,7 +67,6 @@ module.exports = [
     items:[
       { text: 'Git', link: '/other/git/Git' },
       { text: '正则表达式', link: '/other/reg/reg' },
-      { text: 'webpack', link: '/other/webpack/webpack' },
       { text: 'Python', link: '/other/python/crawler' }
     ]
   }
