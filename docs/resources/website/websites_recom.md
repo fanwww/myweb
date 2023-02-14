@@ -62,6 +62,8 @@
 
 - [GreenScok简明教程](https://svgtrick.com/book/greensock/)
 
+- [GreenScok中文](https://gsap.framer.wiki/)
+
 - [Three.js中文](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
 
 #### React部分

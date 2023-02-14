@@ -35,7 +35,7 @@
 
 #### 	Ⅰ- js创建虚拟DOM(`不推荐`)
 
-```js
+```tsx
 //1.创建虚拟DOM,创建嵌套格式的doms
 const VDOM=React.createElement('h1',{id:'title'},React.createElement('span',{},'hello,React'))
 //2.渲染虚拟DOM到页面
@@ -79,7 +79,7 @@ ReactDOM.render(VDOM,docoment.getElementById('test'))
 >1. 定义虚拟DOM时,不要写引号
 >2. 标签中混入JS表达式时要用{}
 >3. 样式的类名指定不要用class,要用className
->4. 内联样式,要用style={{key:value}}的形式(`双{}代表对象,单{}代表表达式`)去写
+>4. 内联样式,要用style={`{key:value}`}的形式(`双{}代表对象,单{}代表表达式`)去写
 >5. 只有一个跟标签(整个虚拟DOM在外层有且仅有一个容器包裹)
 >6. 标签必须闭合
 >7. 标签首字母
