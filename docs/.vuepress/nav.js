@@ -47,6 +47,12 @@ module.exports = [
         ]
       },
       {
+        text:'前端可视化',
+        items:[
+          { text: 'SVG', link: '/fontendAdvance/svg/svg_1' },
+        ]
+      },
+      {
         text:'前端工程化',
         items:[
           { text: '打包基础', link: '/fontendAdvance/pack_base/rollup&webpack' },

@@ -14,7 +14,6 @@
 - [bilibili](https://www.bilibili.com/)
 - [知乎](https://www.zhihu.com/)
 - [微信读书](https://weread.qq.com/)
-- [飞书](https://www.feishu.cn/)
 
 ## 官方网站
 
@@ -84,6 +83,8 @@
 
 - [渐变色](https://uigradients.com/#Purplin/)
 
+- [好看的css动画](https://cssfx.lovejade.cn/)
+
 - [Lodash 中文文档](https://www.lodashjs.com/)
 
 - [Swiper 中文网](https://www.swiper.com.cn/)
@@ -128,28 +129,23 @@
 - [菜鸟教程](https://www.runoob.com/)
 - [前端面试宝典-看云文档](https://www.kancloud.cn/pillys/qianduan/2049475)
 
-## 视频网站
+## B站Up主
 
-- [黑马 pink 前端教程](https://www.bilibili.com/video/BV14J4114768)
-- [黑马 JavaScript 基础](https://www.bilibili.com/video/BV1ux411d75J)
-- [黑马 JS DOM BOM 教程](https://www.bilibili.com/video/BV1k4411w7sV)
-- [黑马 jQuery](https://www.bilibili.com/video/BV1a4411w7Gx)
-- [黑马 ES6 高级语法](https://www.bilibili.com/video/BV1zz411q7j3)
-- [黑马 4 小时上手 Vue](https://www.bilibili.com/video/BV12J411m7MG)
-- [黑马 Vue 音乐播放器](https://www.bilibili.com/video/BV1RE411W776)
-- [黑马 Vue2+Vue3 全套](https://www.bilibili.com/video/BV1zq4y1p7ga)
-- [黑马 Vue 全家桶实战](https://www.bilibili.com/video/BV1x64y1S7S7)
-- [黑马 React](https://www.bilibili.com/video/BV14y4y1g7M4)
-- [黑马 Node](https://www.bilibili.com/video/BV1Ns411N7HU)
-- [尚硅谷 ES6 教程](https://www.bilibili.com/video/BV1uK411H7on)
-- [尚硅谷 3 小时入门 Ajax](https://www.bilibili.com/video/BV1WC4y1b78y)
-- [尚硅谷 5 小时打通 Git](https://www.bilibili.com/video/BV1vy4y1s7k6)
-- [尚硅谷 Webpack](https://www.bilibili.com/video/BV1e7411j7T5)
-- [尚硅谷 Node](https://www.bilibili.com/video/BV1bs411E7pD)
-- [尚硅谷 Vue2+Vue3 全套](https://www.bilibili.com/video/BV1Zy4y1K7SH)
-- [尚硅谷 Vue 项目：尚品汇](https://www.bilibili.com/video/BV1Vf4y1T7bw)
-- [尚硅谷 React](https://www.bilibili.com/video/BV1wy4y1D7JT)
-- [coderwhy Vue](https://www.bilibili.com/video/BV15741177Eh)
+- [后盾人编程_前端基础](https://space.bilibili.com/282190994/)
+
+- [小满zs_前端基础](https://space.bilibili.com/99210573/)
+
+- [coderwhy官方账号_前端基础](https://space.bilibili.com/36139192/)
+
+- [拉钩教育_前端进阶(工程化、性能优化)](https://space.bilibili.com/431653901)
+
+- [阿里技术_AlibabaTech_技术分享](https://space.bilibili.com/1903083115)
+
+- [老陈打码_前端可视化](https://space.bilibili.com/40018594/)
+
+- [强哥学编程_前端可视化](https://space.bilibili.com/649835663/)
+
+- [程序员小山与Bug_前端小知识](https://space.bilibili.com/473631007/)
 
 ## 休闲娱乐
 

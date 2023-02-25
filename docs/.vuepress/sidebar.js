@@ -14,6 +14,7 @@ module.exports = {
   '/fontendAdvance/WebRTC': require('../fontendAdvance/WebRTC/sidebar'),
   '/fontendAdvance/pack_base': require('../fontendAdvance/pack_base/sidebar'),
   '/fontendAdvance/webpack': require('../fontendAdvance/webpack/sidebar'),
+  '/fontendAdvance/svg': require('../fontendAdvance/svg/sidebar'),
   // 后端
   '/backend/nodejs': require('../backend/nodejs/sidebar'),
   '/backend/mysql': require('../backend/mysql/sidebar'),
