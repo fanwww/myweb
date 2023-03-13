@@ -43,7 +43,6 @@ var mediaRecorder = new MediaRecorder(stream[, options]);
     <script src="./js/video.js"></script>
 </body>
 </html>
-复制代码
 ```
 
 ### 2.创建js
@@ -89,7 +88,6 @@ function startRecord(){
 function stopRecord(){
 	mediaRecorder.stop();
 }
-复制代码
 ```
 
 当你点击 **Record** 按钮的时候，就会调用 **startRecord** 函数。在该函数中首先判断浏览器是否支持指定的多媒体格式，如 webm。 如果支持的话，再创建 **MediaRecorder** 对象，将音视频流录制成指定的媒体格式文件。
@@ -114,7 +112,6 @@ recvideo.srcObject = null;
 recvideo.controls = true;
 
 recvideo.play();
-复制代码
 ```
 
 ## 下载录制好的文件

@@ -7,14 +7,14 @@ module.exports = [
     text: '前端',
     items: [
       {
-        text:'小试牛刀',
+        text:'基础',
         items:[
           { text: 'HTML&CSS', link: '/notes/html&css/form' },
-          { text: 'JavaScript', link: '/notes/js/what_is_js' },
+          { text: 'JavaScript', link: '/notes/js/js_1' },
         ]
       },
       {
-        text:'渐入佳境',
+        text:'预处理器',
         items:[
           { text: 'ES6', link: '/notes/es6/es6' },
           { text: 'Sass', link: '/notes/sass/about' },
@@ -23,14 +23,14 @@ module.exports = [
         ]
       },
       {
-        text:'登堂入室',
+        text:'框架',
         items:[
           { text: 'Vue', link: '/notes/vue/vue' },
           { text: 'React', link: '/notes/react/react_base' },
         ]
       },
       {
-        text:'锦上添花',
+        text:'其他',
         items:[
           { text: '微信小程序', link: '/notes/wx_mini_p/life_cycle' },
         ]
@@ -41,9 +41,9 @@ module.exports = [
     text: '前端进阶',
     items: [
       {
-        text:'音视频方向',
+        text:'WebRTC',
         items:[
-          { text: 'WebRTC', link: '/fontendAdvance/WebRTC/web_rtc_1' },
+          { text: 'WebRTC基础', link: '/fontendAdvance/WebRTC/web_rtc_1' },
         ]
       },
       {

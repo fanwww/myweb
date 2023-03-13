@@ -1,39 +1,19 @@
 // notes/JavaScript/sidebar.js
 module.exports = [
   {
-    title: 'JavaScript 简介',
-    path: '/notes/js/what_is_js'
+    title: 'JavaScript 基础',
+    path: '/notes/js/js_1'
   },
   {
-    title: 'Javascript 数组',
-    path: '/notes/js/array'
+    title: 'JavaScript 基础总结',
+    path: '/notes/js/js_2'
   },
   {
-    title: 'Web Storage 浏览器本地存储',
-    path: '/notes/js/webstorage'
+    title: 'JavaScript 函数高级',
+    path: '/notes/js/js_3'
   },
   {
-    title: 'JS 模块化',
-    path: '/notes/js/js_modules'
-  },
-  {
-    title: 'scroll家族',
-    path: '/notes/js/scroll家族',
-  },
-  {
-    title: 'client家族',
-    path: '/notes/js/client家族',
-  },
-  {
-    title: '节点获取',
-    path: '/notes/js/节点获取',
-  },
-  {
-    title: '节点操作',
-    path: '/notes/js/节点操作',
-  },
-  {
-    title: 'event事件',
-    path: '/notes/js/event事件',
+    title: 'JavaScript 面向对象高级',
+    path: '/notes/js/js_4'
   },
 ]

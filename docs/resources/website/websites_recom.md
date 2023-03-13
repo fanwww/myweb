@@ -19,82 +19,61 @@
 
 
 - [Vue.js](https://cn.vuejs.org/)
-
 - [Vue Router](https://router.vuejs.org/zh/)
-
 - [uni-app](https://uniapp.dcloud.net.cn/hybrid.html)
 
 #### web端组件库(Vue)
 
 - [Element UI](https://element.eleme.cn/#/zh-CN)
-
 - [Element-Plus](https://element-plus.gitee.io/zh-CN/)
 
 
 #### 移动端组件库(Vue)
 
 - [Vant](https://vant-contrib.gitee.io/vant/##/zh-CN/home)
-
 - [IView UI](https://www.iviewui.com/)
-
 - [Nut UI(京东移动端组件库)](https://nutui.jd.com/#/)
-
 - [Avue(宝藏网站)](https://v3.avuejs.com/)
 
-#### 日常开发技术
+#### 日常开发常用
 
 - [axios 中文文档](http://www.axios-js.com/)
-
 - [TypeScript 中文文档](https://ts.yayujs.com/)
-
-- [Sass](https://www.sass.hk/)
-
-- [npm](https://www.npmjs.com/)
-
+- [babel 中文文档](https://www.babeljs.cn/)
+- [Sass 中文文档](https://www.sass.hk/)
+- [nuxt.js 中文文档](https://www.nuxtjs.cn/)
 - [tailwindcss(类名控制样式)](https://www.tailwindcss.cn/)
-
+- [npm](https://www.npmjs.com/)
+- [xijs工具库](http://h5.dooring.cn/xijs/)
+- [xlsx中文文档](https://github.com/rockboom/SheetJS-docs-zh-CN)
+- [天地图文档](https://soullyoko.github.io/vue-tianditu/)
+- [intro.js-新手引导库](https://www.dowebok.com/demo/2013/35/)
 - [Echarts](https://echarts.apache.org/zh/index.html)
-
 - [pixijs(canvas库)](http://pixijs.huashengweilai.com/)
-
 - [konvajs(canvas库)](http://konvajs-doc.bluehymn.com/)
-
 - [GreenScok简明教程](https://svgtrick.com/book/greensock/)
-
 - [GreenScok中文](https://gsap.framer.wiki/)
-
 - [Three.js中文](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
+- [给好奇者的WebRTC](https://webrtcforthecurious.com/zh/)
 
 #### React部分
 
 - [React](https://reactjs.org/)
-
 - [Redux](https://redux.js.org/)
-
 - [Redux 中文文档](https://www.redux.org.cn/)
-
 - [ahooks 中文文档](https://ahooks.js.org/zh-CN)
-
 - [Ant Design](https://ant.design/index-cn)
 
 #### 杂七杂八
 
 - [渐变颜色](http://color.oulu.me/?mode=light)
-
 - [渐变色](https://uigradients.com/#Purplin/)
-
 - [好看的css动画](https://cssfx.lovejade.cn/)
-
 - [Lodash 中文文档](https://www.lodashjs.com/)
-
 - [Swiper 中文网](https://www.swiper.com.cn/)
-
 - [Animate.css](https://animate.style/)
-
 - [Bootstrap 中文网](https://www.bootcss.com/)
-
 - [jQuery API 中文文档](https://www.jquery123.com/)
-
 - [Node.js 中文网](http://nodejs.cn/)
 
 

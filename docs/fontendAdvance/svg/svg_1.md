@@ -31,7 +31,6 @@
     </svg>
   </body>
 </html>
-复制代码
 ```
 
 ![1648797007(1).png](./images/svg_1_1.jpg)
