@@ -14,7 +14,7 @@ module.exports = [
         ]
       },
       {
-        text:'预处理器',
+        text:'入门',
         items:[
           { text: 'ES6', link: '/notes/es6/es6' },
           { text: 'Sass', link: '/notes/sass/about' },
@@ -50,6 +50,8 @@ module.exports = [
         text:'前端可视化',
         items:[
           { text: 'SVG', link: '/fontendAdvance/svg/svg_1' },
+          { text: 'ECharts', link: '/fontendAdvance/echarts/echarts_1' },
+          { text: 'Handsontable', link: '/fontendAdvance/handsontable/handsontable_1' },
         ]
       },
       {
