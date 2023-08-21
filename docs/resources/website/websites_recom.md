@@ -14,67 +14,149 @@
 - [bilibili](https://www.bilibili.com/)
 - [知乎](https://www.zhihu.com/)
 - [微信读书](https://weread.qq.com/)
+- [代码练习](https://stackblitz.com/)
 
-## 官方网站
+## vue生态
+
+### 基建
 
 
 - [Vue.js](https://cn.vuejs.org/)
-- [Vue Router](https://router.vuejs.org/zh/)
+- [Vue Router中文文档](https://router.vuejs.org/zh/)
+- [Vue 中文文档](https://vuex.vuejs.org/zh/index.html)
+- [Pinia中文文档](https://pinia.vuejs.org/zh/)
 - [uni-app](https://uniapp.dcloud.net.cn/hybrid.html)
+- [VueUse中文文档](http://www.vueusejs.com//)
+- [VueLoder中文文档](https://vue-loader.vuejs.org/zh/#vue-loader-%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F)
+- [VitePress中文文档](https://vitejs.cn/vitepress/)
 
-#### web端组件库(Vue)
+### web端组件库(Vue)
 
 - [Element UI](https://element.eleme.cn/#/zh-CN)
 - [Element-Plus](https://element-plus.gitee.io/zh-CN/)
 
 
-#### 移动端组件库(Vue)
+### 移动端组件库(Vue)
 
 - [Vant](https://vant-contrib.gitee.io/vant/##/zh-CN/home)
 - [IView UI](https://www.iviewui.com/)
 - [Nut UI(京东移动端组件库)](https://nutui.jd.com/#/)
 - [Avue(宝藏网站)](https://v3.avuejs.com/)
 
-#### 日常开发常用
-
-- [axios 中文文档](http://www.axios-js.com/)
-- [TypeScript 中文文档](https://ts.yayujs.com/)
-- [babel 中文文档](https://www.babeljs.cn/)
-- [Sass 中文文档](https://www.sass.hk/)
-- [nuxt.js 中文文档](https://www.nuxtjs.cn/)
-- [tailwindcss(类名控制样式)](https://www.tailwindcss.cn/)
-- [npm](https://www.npmjs.com/)
-- [xijs工具库](http://h5.dooring.cn/xijs/)
-- [xlsx中文文档](https://github.com/rockboom/SheetJS-docs-zh-CN)
-- [天地图文档](https://soullyoko.github.io/vue-tianditu/)
-- [intro.js-新手引导库](https://www.dowebok.com/demo/2013/35/)
-- [Echarts](https://echarts.apache.org/zh/index.html)
-- [pixijs(canvas库)](http://pixijs.huashengweilai.com/)
-- [konvajs(canvas库)](http://konvajs-doc.bluehymn.com/)
-- [GreenScok简明教程](https://svgtrick.com/book/greensock/)
-- [GreenScok中文](https://gsap.framer.wiki/)
-- [Three.js中文](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
-- [给好奇者的WebRTC](https://webrtcforthecurious.com/zh/)
-
-#### React部分
+## React生态
 
 - [React](https://reactjs.org/)
 - [Redux](https://redux.js.org/)
 - [Redux 中文文档](https://www.redux.org.cn/)
+- [ReduxRouter](https://reactrouter.com/en/main/start/overview)
 - [ahooks 中文文档](https://ahooks.js.org/zh-CN)
 - [Ant Design](https://ant.design/index-cn)
 
-#### 杂七杂八
+## Fuilter生态
+
+- [Dart语言学习](https://dart.cn/)
+
+## Nest.js生态
+- [Nest.js中文文档](https://docs.nestjs.cn/9/firststeps)
+- [TypeORM中文文档](https://typeorm.biunav.com/zh/ )
+- [RxJS中文文档](https://cn.rx.js.org/class/es6/Observable.js~Observable.html)
+- [Node.js 中文网](http://nodejs.cn/)
+
+
+## 日常开发常用
+
+- [axios 中文文档](http://www.axios-js.com/)
+- [TypeScript 中文文档](https://ts.yayujs.com/)
+- [ts中文文档(冴羽版](https://ts.yayujs.com/)
+- [babel 中文文档](https://www.babeljs.cn/)
+- [Sass 中文文档](https://www.sass.hk/)
+- [tailwindcss(类名控制样式)](https://www.tailwindcss.cn/)
+- [Echarts](https://echarts.apache.org/zh/index.html)
+- [nuxt.js 中文文档](https://www.nuxtjs.cn/)
+- [npm](https://www.npmjs.com/)
+- [jQuery API 中文文档](https://www.jquery123.com/)
+- [ChatGPT 推荐](https://www.feijix.com/n/y0BnXI)
+- [ChatGPT 备用](http://quruanpu.ysepan.com/)
+
+## 工具库
+
+- [Lodash 中文文档](https://www.lodashjs.com/)
+- [licia函数工具库](https://licia.liriliri.io/docs_cn.html)
+- [xijs工具库](http://h5.dooring.cn/xijs/)
+- [xlsx中文文档](https://github.com/rockboom/SheetJS-docs-zh-CN)
+- [天地图文档](https://soullyoko.github.io/vue-tianditu/)
+- [intro.js-新手引导库](https://www.dowebok.com/demo/2013/35/)
+
+## Canvas2d
+
+- [pixijs(canvas库)](http://pixijs.huashengweilai.com/)
+- [konvajs(canvas库)](http://konvajs-doc.bluehymn.com/)
+
+## WebGl&WebGPU
+
+[WebGL电子书](http://www.webgl3d.cn/WebGL/)
+
+[Three.js中文文档](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
+
+[《探索Three.js》](https://discoverthreejs.com/zh/)
+
+[Web3D可视化](http://www.webgl3d.cn/)
+
+[glmatrix 矩阵运算](https://glmatrix.net/)
+
+[Galacean](https://galacean.antgroup.com/)
+
+[Orillusion WEBGPU框架](https://www.orillusion.com)
+
+[生成深度图工具网站](https://convert.leiapix.com/)
+
+[纹理模型资源1](https://www.textures.com/free)
+
+[纹理模型资源2](https://polyhaven.com/zh/textures)
+
+## WebGIS
+
+[阿里地图json数据生成](http://datav.aliyun.com/portal/school/atlas/area_selector#&lat=33.50475906922609&lng=104.32617187499999&zoom=4)
+
+[cesium.js官方文档](https://cesium.com/platform/cesiumjs/)
+
+[cesium_api文档](http://cesiumcn.org/docs/)
+
+[cesium_api文档中文版](http://www.cesium.xin/cesium/cn/Documentation1.62/)
+
+[cesium中文教程](http://cesiumcn.org/getstart.html)
+
+## WEBRTC
+
+- [《给好奇者的WebRTC》](https://webrtcforthecurious.com/zh/)
+- [peer.js](https://peerjs.com/docs/#start)
+- [websocket简介](https://halfrost.com/websocket/)
+- [socket.io](https://socket.io/zh-CN/docs/v4/)
+
+## WebWorker
+- [WebWorker](https://www.ruanyifeng.com/blog/2018/07/web-worker.html)
+
+## 人工智能
+- [tensorflow.js中文文档](https://tensorflow.juejin.im/get_started/)
+
+## 样式动效
 
 - [渐变颜色](http://color.oulu.me/?mode=light)
 - [渐变色](https://uigradients.com/#Purplin/)
 - [好看的css动画](https://cssfx.lovejade.cn/)
-- [Lodash 中文文档](https://www.lodashjs.com/)
-- [Swiper 中文网](https://www.swiper.com.cn/)
+- [css3动画合集](https://www.webhek.com/post/css3-animation-sniplet-collection/#/)
 - [Animate.css](https://animate.style/)
-- [Bootstrap 中文网](https://www.bootcss.com/)
-- [jQuery API 中文文档](https://www.jquery123.com/)
-- [Node.js 中文网](http://nodejs.cn/)
+- [GreenScok简明教程](https://svgtrick.com/book/greensock/)
+- [GreenScok中文](https://gsap.framer.wiki/)
+- [AOS-视差滚动](https://michalsnik.github.io/aos/)
+- [ScrollMagic-视差滚动](http://scrollmagic.io/)
+- [Skrollr-视差滚动](https://github.com/Prinzhorn/skrollr)
+- [Parallax.js-视差滚动](http://matthew.wagerfield.com/parallax/)
+- [bennettfeely主页 各种样式动效及设计工具](https://bennettfeely.com/)
+- [波浪效果SVG制作](https://getwaves.io/)
+- [CodeOpen-曲线绘制](https://codepen.io/anthonydugois/pen/mewdyZ​)
+- [Swiper中文网](https://www.swiper.com.cn/)
+- [Bootstrap中文网](https://www.bootcss.com/)
 
 
 ## 工具网站
@@ -93,6 +175,7 @@
 - [iconfont](https://www.iconfont.cn/)
 - [IcoMoon](https://icomoon.io/)
 - [在线制作 ico 图标](https://www.bitbug.net/)
+- [Ubuntu 中文站点](https://wiki.ubuntu.org.cn/%E9%A6%96%E9%A1%B5)
 
 ## 学习网站
 
