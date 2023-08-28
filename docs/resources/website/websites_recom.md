@@ -114,6 +114,8 @@
 
 [纹理模型资源2](https://polyhaven.com/zh/textures)
 
+[模型预览](https://3dviewer.net/index.html )
+
 ## WebGIS
 
 [阿里地图json数据生成](http://datav.aliyun.com/portal/school/atlas/area_selector#&lat=33.50475906922609&lng=104.32617187499999&zoom=4)
