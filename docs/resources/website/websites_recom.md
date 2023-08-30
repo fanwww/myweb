@@ -16,6 +16,19 @@
 - [微信读书](https://weread.qq.com/)
 - [代码练习](https://stackblitz.com/)
 
+## 工程化
+
+- [Vite中文文档](https://cn.vitejs.dev/)
+- [Webpack中文文档](https://www.webpackjs.com/)
+- [Rollup中文文档](https://www.rollupjs.com/)
+- [Esbuild 中文文档](https://esbuild.bootcss.com/)
+- [Babel中文文档](https://www.babeljs.cn/docs/)
+- [PostCSS中文文档](https://postcss.nodejs.cn/)
+- [EsLint中文文档](https://zh-hans.eslint.org/)
+- [NPM中文文档](https://www.npmjs.cn/)
+- [PNPM中文文档](https://www.pnpm.cn/)
+- [SWC](https://swc.rs/)
+
 ## vue生态
 
 ### 基建
