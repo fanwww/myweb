@@ -21,6 +21,7 @@
 - ※ [深入理解 JavaScript 的事件循环](https://zhuanlan.zhihu.com/p/46068171)
 - [如何解释 Event Loop 面试官才满意？](https://zhuanlan.zhihu.com/p/72507900)
 - [理解作用域和作用域链](https://www.cnblogs.com/lhb25/archive/2011/09/06/javascript-scope-chain.html)
+- [PromiseA+规范](https://promisesaplus.com)
 
 ## Vue
 

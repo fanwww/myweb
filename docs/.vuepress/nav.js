@@ -59,6 +59,7 @@ module.exports = [
         items:[
           { text: '打包基础', link: '/fontendAdvance/pack_base/rollup&webpack' },
           { text: 'webpack', link: '/fontendAdvance/webpack/webpack' },
+          { text: 'vite', link: '/fontendAdvance/vite/vite' },
         ]
       }
     ]

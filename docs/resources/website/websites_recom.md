@@ -85,6 +85,7 @@
 - [Sass 中文文档](https://www.sass.hk/)
 - [tailwindcss(类名控制样式)](https://www.tailwindcss.cn/)
 - [Echarts](https://echarts.apache.org/zh/index.html)
+- [Echarts社区](http://chartlib.datains.cn/echarts )
 - [nuxt.js 中文文档](https://www.nuxtjs.cn/)
 - [npm](https://www.npmjs.com/)
 - [jQuery API 中文文档](https://www.jquery123.com/)
@@ -107,39 +108,38 @@
 
 ## WebGl&WebGPU
 
-[WebGL电子书](http://www.webgl3d.cn/WebGL/)
+- [WebGL电子书](http://www.webgl3d.cn/WebGL/)
 
-[Three.js中文文档](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
+- [Three.js中文文档](https://threejs.org/docs/index.html#manual/zh/introduction/Creating-a-scene)
 
-[《探索Three.js》](https://discoverthreejs.com/zh/)
+- [《探索Three.js》](https://discoverthreejs.com/zh/)
 
-[Web3D可视化](http://www.webgl3d.cn/)
+- [Web3D可视化](http://www.webgl3d.cn/)
 
-[glmatrix 矩阵运算](https://glmatrix.net/)
+- [glmatrix 矩阵运算](https://glmatrix.net/)
 
-[Galacean](https://galacean.antgroup.com/)
+- [Galacean](https://galacean.antgroup.com/)
 
-[Orillusion WEBGPU框架](https://www.orillusion.com)
+- [Orillusion WEBGPU框架](https://www.orillusion.com)
 
-[生成深度图工具网站](https://convert.leiapix.com/)
+- [生成深度图工具网站](https://convert.leiapix.com/)
 
-[纹理模型资源1](https://www.textures.com/free)
+- [纹理模型资源1](https://www.textures.com/free)
 
-[纹理模型资源2](https://polyhaven.com/zh/textures)
+- [纹理模型资源2](https://polyhaven.com/zh/textures)
 
-[模型预览](https://3dviewer.net/index.html )
+- [模型预览](https://3dviewer.net/index.html )
 
 ## WebGIS
 
-[阿里地图json数据生成](http://datav.aliyun.com/portal/school/atlas/area_selector#&lat=33.50475906922609&lng=104.32617187499999&zoom=4)
+- [阿里地图json数据生成](http://datav.aliyun.com/portal/school/atlas/area_selector#&lat=33.50475906922609&lng=104.32617187499999&zoom=4)
+- [cesium.js官方文档](https://cesium.com/platform/cesiumjs/)
 
-[cesium.js官方文档](https://cesium.com/platform/cesiumjs/)
+- [cesium_api文档](http://cesiumcn.org/docs/)
 
-[cesium_api文档](http://cesiumcn.org/docs/)
+- [cesium_api文档中文版](http://www.cesium.xin/cesium/cn/Documentation1.62/)
 
-[cesium_api文档中文版](http://www.cesium.xin/cesium/cn/Documentation1.62/)
-
-[cesium中文教程](http://cesiumcn.org/getstart.html)
+- [cesium中文教程](http://cesiumcn.org/getstart.html)
 
 ## WEBRTC
 
@@ -147,6 +147,7 @@
 - [peer.js](https://peerjs.com/docs/#start)
 - [websocket简介](https://halfrost.com/websocket/)
 - [socket.io](https://socket.io/zh-CN/docs/v4/)
+- [ffmpeg中文下载](https://ffmpeg.p2hp.com/download.html )
 
 ## WebWorker
 - [WebWorker](https://www.ruanyifeng.com/blog/2018/07/web-worker.html)
@@ -191,6 +192,7 @@
 - [IcoMoon](https://icomoon.io/)
 - [在线制作 ico 图标](https://www.bitbug.net/)
 - [Ubuntu 中文站点](https://wiki.ubuntu.org.cn/%E9%A6%96%E9%A1%B5)
+- [emoji表情汇总](http://www.emojiall.com/zh-hans)
 
 ## 学习网站
 

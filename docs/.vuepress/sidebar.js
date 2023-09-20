@@ -14,6 +14,7 @@ module.exports = {
   '/fontendAdvance/WebRTC': require('../fontendAdvance/WebRTC/sidebar'),
   '/fontendAdvance/pack_base': require('../fontendAdvance/pack_base/sidebar'),
   '/fontendAdvance/webpack': require('../fontendAdvance/webpack/sidebar'),
+  '/fontendAdvance/vite': require('../fontendAdvance/vite/sidebar'),
   '/fontendAdvance/svg': require('../fontendAdvance/svg/sidebar'),
   '/fontendAdvance/echarts': require('../fontendAdvance/echarts/sidebar'),
   '/fontendAdvance/handsontable': require('../fontendAdvance/handsontable/sidebar'),

@@ -9,11 +9,7 @@
 - [如何快速部署 Node.js 项目](https://developer.aliyun.com/article/80217)
 - [为阿里云服务器 ECS 实例安装 Nodejs](https://blog.csdn.net/weixin_43503511/article/details/86670345)
 
-## MATLAB
-
-- [MATLAB 中文论坛](https://www.ilovematlab.cn/)
-- [MATLAB—GUI 新手入门教程](https://blog.csdn.net/qq_44868807/article/details/106628113)
-- [MATLAB GUI 界面设计 数字图像处理](https://www.bilibili.com/video/BV1o5411W7dF)
+- https://www.bilibili.com/video/BV1o5411W7dF)
 
 ## Python & Keras 深度学习
 
