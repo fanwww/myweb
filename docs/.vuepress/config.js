@@ -60,7 +60,7 @@ module.exports = {
     // 默认值是 true 。设置为 false 来禁用所有页面的 上一篇 链接
     prevLinks: true,
     // 导航栏显示 gitee 仓库
-    repo: 'https://github.com/fanwww/myweb',
-    repoLabel: 'Github',
+    repo: 'https://superfan-fan.gitee.io/myweb',
+    repoLabel: '个人网站',
   },
 }
